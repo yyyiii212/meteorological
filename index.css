@@ -89,12 +89,12 @@
 }
 .back .div2 {
   position: absolute;
-  top: 280px;
+  top: 260px;
   left: 80px;
 }
 .back .div3 {
   position: absolute;
-  top: 530px;
+  top: 500px;
   left: 180px;
 }
 .back .div4 {
@@ -104,11 +104,11 @@
 }
 .back .div5 {
   position: absolute;
-  top: 280px;
+  top: 260px;
   left: 1100px;
 }
 .back .div6 {
   position: absolute;
-  top: 530px;
+  top: 500px;
   left: 1100px;
 }/*# sourceMappingURL=index.css.map */
