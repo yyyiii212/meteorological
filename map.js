@@ -17,6 +17,7 @@ const div3 = document.querySelector(".div3")
 const div4 = document.querySelector(".div4")
 const div5 = document.querySelector(".div5")
 const div6 = document.querySelector(".div6")
+const img = document.querySelector("#image")
 
 let text = "";
 setTimeout(function () {
@@ -31,3 +32,7 @@ setTimeout(function () {
     div5.innerHTML = text;
     div6.innerHTML = text;
 }, 100)
+
+img.addEventListener("click", function () {
+    window.location.href = "./index.html";
+})

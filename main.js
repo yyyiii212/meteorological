@@ -18,6 +18,7 @@ const li3 = document.querySelector(".li3")
 const li4 = document.querySelector(".li4")
 const back4 = document.querySelector(".back4")
 const back3 = document.querySelector(".back3")
+const img = document.querySelector("#image")
 
 sel1.addEventListener("change", function (i) {
     // back4.innerHTML = "";
@@ -60,4 +61,8 @@ sel1.addEventListener("change", function (i) {
         back4.innerHTML = `<i class="fa-solid fa-cloud-sun"></i>`;
 
     }
+})
+
+img.addEventListener("click", function () {
+    window.location.href = "./map.html";
 })

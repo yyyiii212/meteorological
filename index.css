@@ -6,10 +6,16 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-image: url("https://imgur.dcard.tw/5aqZC9e.gif");
-  background-repeat: no-repeat;
-  background-size: 230px 230px;
-  background-position: 2 0px 30px;
+}
+.back #image {
+  width: 230px;
+  height: 230px;
+  position: relative;
+  left: -600px;
+  top: 10px;
+}
+.back .back1 {
+  margin-top: -200px;
 }
 .back .back1 h1 {
   font-size: 48px;
