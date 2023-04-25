@@ -1,0 +1,108 @@
+.back {
+  font-family: "ZCOOL QingKe HuangYou", sans-serif;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(168, 220, 240);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("https://imgur.dcard.tw/5aqZC9e.gif");
+  background-repeat: no-repeat;
+  background-size: 230px 230px;
+  background-position: 20px 30px;
+}
+.back .back1 h1 {
+  font-size: 48px;
+  letter-spacing: 60px;
+}
+.back #sel1 {
+  width: 230px;
+  height: 50px;
+  font-size: 36px;
+  text-align: center;
+  border-radius: 50px;
+  font-family: "ZCOOL QingKe HuangYou", sans-serif;
+  letter-spacing: 3px;
+  margin-top: 30px;
+}
+.back .back3 {
+  width: 600px;
+  height: 300px;
+  background-color: white;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+.back .back3 .ul1 {
+  list-style: none;
+  font-size: 36px;
+  letter-spacing: 4px;
+}
+.back .back3 .ul1 li {
+  margin-top: 20px;
+  letter-spacing: 5px;
+}
+.back .back4 {
+  width: 180px;
+  height: 180px;
+  margin-top: -270px;
+  margin-left: 400px;
+}
+.back .back4 .fa-solid {
+  font-size: 140px;
+}
+.back .div {
+  width: 330px;
+  height: 180px;
+  border-radius: 50px;
+  background-color: white;
+  position: relative;
+}
+.back .div .fa-solid {
+  font-size: 60px;
+  position: relative;
+  top: -160px;
+  margin-left: 230px;
+}
+.back .div p {
+  font-size: 28px;
+  margin-top: 20px;
+  margin-left: 50px;
+  letter-spacing: 3px;
+}
+.back .div span {
+  display: inline-block;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-left: 50px;
+  letter-spacing: 3px;
+}
+.back .div1 {
+  position: absolute;
+  top: 30px;
+  left: 250px;
+}
+.back .div2 {
+  position: absolute;
+  top: 280px;
+  left: 80px;
+}
+.back .div3 {
+  position: absolute;
+  top: 530px;
+  left: 180px;
+}
+.back .div4 {
+  position: absolute;
+  top: 30px;
+  left: 1100px;
+}
+.back .div5 {
+  position: absolute;
+  top: 280px;
+  left: 1100px;
+}
+.back .div6 {
+  position: absolute;
+  top: 530px;
+  left: 1100px;
+}/*# sourceMappingURL=index.css.map */

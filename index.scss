@@ -1,0 +1,128 @@
+.back {
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(168, 220, 240);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://imgur.dcard.tw/5aqZC9e.gif");
+    background-repeat: no-repeat;
+    background-size: 230px 230px;
+    background-position: 20px 30px;
+
+    .back1 {
+        h1 {
+            font-size: 48px;
+            letter-spacing: 60px;
+        }
+    }
+
+    #sel1 {
+        width: 230px;
+        height: 50px;
+        font-size: 36px;
+        text-align: center;
+        border-radius: 50px;
+        font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+        letter-spacing: 3px;
+        margin-top: 30px;
+    }
+
+    .back3 {
+        width: 600px;
+        height: 300px;
+        background-color: white;
+        border-radius: 50px;
+        margin-top: 50px;
+
+        .ul1 {
+            list-style: none;
+            font-size: 36px;
+            letter-spacing: 4px;
+
+            li {
+                margin-top: 20px;
+                letter-spacing: 5px;
+            }
+        }
+    }
+
+    .back4 {
+        width: 180px;
+        height: 180px;
+        margin-top: -270px;
+        margin-left: 400px;
+
+        .fa-solid {
+            font-size: 140px;
+        }
+    }
+
+    .div {
+        width: 330px;
+        height: 180px;
+        border-radius: 50px;
+        background-color: white;
+        position: relative;
+
+        .fa-solid {
+            font-size: 60px;
+            position: relative;
+            top: -160px;
+            margin-left: 230px;
+        }
+
+        p {
+            font-size: 28px;
+            margin-top: 20px;
+            margin-left: 50px;
+            letter-spacing: 3px;
+        }
+
+        span {
+            display: inline-block;
+            font-size: 28px;
+            margin-top: 20px;
+            margin-left: 50px;
+            letter-spacing: 3px;
+        }
+
+    }
+
+    .div1 {
+        position: absolute;
+        top: 30px;
+        left: 250px;
+    }
+
+    .div2 {
+        position: absolute;
+        top: 280px;
+        left: 80px;
+    }
+
+    .div3 {
+        position: absolute;
+        top: 530px;
+        left: 180px;
+    }
+
+    .div4 {
+        position: absolute;
+        top: 30px;
+        left: 1100px;
+    }
+
+    .div5 {
+        position: absolute;
+        top: 280px;
+        left: 1100px;
+    }
+
+    .div6 {
+        position: absolute;
+        top: 530px;
+        left: 1100px;
+    }
+}
